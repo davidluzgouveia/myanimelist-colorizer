@@ -6,6 +6,5 @@ Adds colors based on status while browsing for anime or manga on [MyAnimeList](h
 
 ## Instructions
 
-1) Install [Tampermonkey](http://tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-2) Install [myanimelist-colorizer.user.js](https://github.com/davidluzgouveia/myanimelist-colorizer/raw/master/myanimelist-colorizer.user.js)
-
+- Install [Tampermonkey](http://tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+- Install [myanimelist-colorizer.user.js](https://github.com/davidluzgouveia/myanimelist-colorizer/raw/master/myanimelist-colorizer.user.js)
