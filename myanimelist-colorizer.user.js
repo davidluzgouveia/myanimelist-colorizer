@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MyAnimeList Colorizer
 // @namespace    http://www.david-gouveia.com/
-// @version      1.0
+// @version      1.1
 // @description  Adds colors based on status while browsing for anime or manga on MyAnimeList
 // @author       David Gouveia
 // @match        https://myanimelist.net/topanime*
